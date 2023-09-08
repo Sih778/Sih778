@@ -1,4 +1,4 @@
-<h1 align="center">Silvana Sousa</h1>
+<h1 align="center">Silvana</h1>
 
 <p>Profissional na área de Assistente Administrativo, com mais de 11 anos de experiência, estou  em transição para a área de Tecnologia.</p>
 
